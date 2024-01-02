@@ -113,7 +113,7 @@ class UploadVideo:
             thumbnail = thumb
         if not caption:
             caption = f"**File Name:** `{os.path.basename(video)}`" \
-                      "\n\n**@OpusTechz**"
+                      "\n\n**@QUEENx_GOD**"
         c_time = time.time()
         await self.send_video(
             chat_id=chat_id,
